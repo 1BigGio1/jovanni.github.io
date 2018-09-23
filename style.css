@@ -1,0 +1,33 @@
+.row{   
+    display: flex;
+    background-color:black;
+    color:white;
+    font-size:20px;
+    justify-content: space-around;
+    font-family:Gloria Hallelujah;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:black;
+    color:white;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family:Indie Flower;
+}
+.aboutme{
+    border:5px solid #cc0000;   
+}
+
+
+body{
+background-color:#cc0000;    
+}
+
+h1{
+font-size:50px;    
+}
